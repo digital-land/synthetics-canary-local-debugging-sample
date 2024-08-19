@@ -126,6 +126,7 @@ You can quickly integrate local canary debugging into your existing canary packa
 3.	Put launch configuration file `.vscode/launch.json` in the package root. Make sure to put it inside `.vscode` directory; create it if it does not exist already.
 
 
+
 ## Common errors
 
 1. Error: Running AWS SAM projects locally requires Docker. Have you got it installed and running?

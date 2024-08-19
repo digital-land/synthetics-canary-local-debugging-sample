@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+../../build/Python-certifi/Python-certifi-current_api_1.0.2642500.0/AL2_x86_64/DEV.STD.PTHREAD/build/private/python-certifi/python3.8/certifi.egg-info/PKG-INFO
+../../build/Python-certifi/Python-certifi-current_api_1.0.2642500.0/AL2_x86_64/DEV.STD.PTHREAD/build/private/python-certifi/python3.8/certifi.egg-info/SOURCES.txt
+../../build/Python-certifi/Python-certifi-current_api_1.0.2642500.0/AL2_x86_64/DEV.STD.PTHREAD/build/private/python-certifi/python3.8/certifi.egg-info/dependency_links.txt
+../../build/Python-certifi/Python-certifi-current_api_1.0.2642500.0/AL2_x86_64/DEV.STD.PTHREAD/build/private/python-certifi/python3.8/certifi.egg-info/not-zip-safe
+../../build/Python-certifi/Python-certifi-current_api_1.0.2642500.0/AL2_x86_64/DEV.STD.PTHREAD/build/private/python-certifi/python3.8/certifi.egg-info/top_level.txt
+certifi/__init__.py
+certifi/__main__.py
+certifi/cacert.pem
+certifi/core.py
+certifi/py.typed

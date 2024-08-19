@@ -77,5 +77,6 @@ Resources:
         # Use the appropriate Layer ARN to run your canary against the intended Synthetics runtime in the desired AWS region.
         # Refer to the CloudWatch Synthetics documentation to find the Layer ARN list for the supported runtimes in all supported AWS Regions.
         # https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Debug_Locally.html#CloudWatch_Synthetics_Debug_DifferentRuntime
-        - arn:aws:lambda:us-west-2:760325925879:layer:Synthetics_Selenium:34 # syn-python-selenium-2.0
+        # e.g. - arn:aws:lambda:us-west-2:760325925879:layer:Synthetics_Selenium:34 # syn-python-selenium-2.0
+        - arn:aws:lambda:eu-west-2:565831452869:layer:Synthetics_Selenium:32 # syn-python-selenium-3.0 runtime
       Role: !GetAtt CanaryExecutionRole.Arn        
